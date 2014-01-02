@@ -4,4 +4,5 @@ Being the freequest twitter list user i have always wanted to one click access t
 
 This can also serve as tiny boilerplace code you wish to work on a chrome extensions.
 
+_Below is animated gif showing how to install it._
 ![installation steps for installing plugin](http://cdn.makeagif.com/media/1-02-2014/9tKTH2.gif)
